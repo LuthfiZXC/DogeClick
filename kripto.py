@@ -1,3 +1,6 @@
+#Script masih beta, jangan dipake kalo gamau kenapa2
+
+
 import os
 import re
 import sys
@@ -30,8 +33,7 @@ BW= '\033[97m'
 #----- Telegram Information -----#
 api_id = 1126719
 api_hash = "3389b2abb4a96a82ed0f9efa744faa25"
-phone_number1 = "+6281336434313"
-phone_number = "+6282232775436"
+phone_number1 = str(input("Phone number"))
 doge = "Dogecoin_click_bot"
 ltc = "Litecoin_click_bot"
 bch = "BCH_clickbot"

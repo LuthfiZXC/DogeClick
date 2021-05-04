@@ -1,0 +1,2 @@
+# DogeClick
+Bot autoclaim doge

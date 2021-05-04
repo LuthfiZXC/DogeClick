@@ -1,4 +1,5 @@
 #Script masih beta, jangan dipake kalo gamau kenapa2
+#Script by. LuthfiZXC
 
 
 import os
